@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoumadeepBagui
 - 👀 I’m interested in Data Structure and Algorithm and full Stack development
-- 🌱 I’m currently learning DSA ansd we development ( MERN/ MEAN )
+- 🌱 I’m currently learning DSA ansd web development ( MERN/ MEAN )
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me soumadeepbagui123@gmail.com
 
