@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Structure and Algorithm and full Stack development
 - 🌱 I’m currently learning DSA ansd web development ( MERN/ MEAN )
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me soumadeepbagui123@gmail.com
+- 📫 How to reach me soumadeepbagui2@gmail.com
 
 <!---
 SoumadeepBagui409/SoumadeepBagui409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
