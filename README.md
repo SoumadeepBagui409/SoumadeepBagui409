@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-7111
-Fork on GitHub
-1359
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Soumadeep Bagui</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
